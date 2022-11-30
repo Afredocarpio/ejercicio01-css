@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+    background-color: #91F291;
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 200;
+    font-size: 1.6rem;
+
+    margin-left: 2rem;
+
+}
+  *, *:before, *:after {
+    box-sizing: inherit;
+}
+
+#titulo {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: #58a458;
+    padding: .6rem;
+    width: 10rem;
+    border-radius: 2rem;
+}
+
+#element1, #super1 {
+    background-color: #e74d4d;
+    width: 6rem;
+    font-size: 2rem;
+    padding: .5rem;
+    border-radius: 1rem;
+    margin-bottom: .5rem;
+}
